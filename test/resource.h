@@ -1,0 +1,121 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by test.rc
+//
+#define IDM_ABOUTBOX                    0x0010
+#define IDD_ABOUTBOX                    100
+#define IDS_ABOUTBOX                    101
+#define IDD_TEST_DIALOG                 102
+#define IDR_MAINFRAME                   128
+#define IDI_ICON1                       134
+#define IDC_BUTTON1                     1001
+#define IDC_BUTTON2                     1002
+#define IDC_BUTTON3                     1003
+#define IDC_BtnSave                     1003
+#define IDC_EDIT2                       1004
+#define IDC_BUTTON9                     1012
+#define IDC_BUTTON6                     1024
+#define IDC_BUTTON7                     1025
+#define IDC_EDIT1                       1026
+#define IDC_STATIC2                     1028
+#define IDC_STATIC4                     1030
+#define IDC_BUTTON4                     1031
+#define IDC_BUTTON5                     1032
+#define IDC_BUTTON8                     1033
+#define IDC_BtnLoad                     1033
+#define IDC_BUTTON10                    1034
+#define IDC_BUTTON11                    1035
+#define IDC_EDIT3                       1036
+#define IDC_EDIT4                       1037
+#define IDC_BUTTON31                    1037
+#define IDC_STATIC5                     1038
+#define IDC_BUTTON12                    1039
+#define IDC_BUTTON13                    1040
+#define IDC_BUTTON14                    1041
+#define IDC_STATIC19                    1041
+#define IDC_STATIC6                     1042
+#define IDC_EDIT8                       1042
+#define IDC_BUTTON15                    1043
+#define IDC_BUTTON16                    1044
+#define IDC_BUTTON17                    1045
+#define IDC_BUTTON18                    1046
+#define IDC_BUTTON19                    1047
+#define IDC_BUTTON20                    1048
+#define IDC_BUTTON21                    1049
+#define IDC_EDIT5                       1050
+#define IDC_BUTTON22                    1051
+#define IDC_BUTTON23                    1052
+#define IDC_EDIT6                       1053
+#define IDC_BUTTON24                    1054
+#define IDC_BUTTON25                    1055
+#define IDC_EDIT7                       1056
+#define IDC_STATIC7                     1057
+#define IDC_STATIC8                     1058
+#define IDC_STATIC9                     1059
+#define IDC_BUTTON26                    1060
+#define IDC_BUTTON32                    1061
+#define IDC_BtnBuy                      1062
+#define IDC_ListToBuy                   1063
+#define IDC_BUTTON33                    1064
+#define IDC_BtnClear                    1065
+#define IDC_STATIC20                    1066
+#define IDC_BUTTON35                    1067
+#define IDC_EDIT9                       1068
+#define IDC_BUTTON36                    1069
+#define IDC_BUTTON29                    1070
+#define IDC_BUTTON30                    1071
+#define IDC_BUTTON37                    1072
+#define IDC_STATIC21                    1073
+#define IDC_BUTTON40                    1074
+#define IDC_EDIT10                      1075
+#define IDC_CHECK4                      1076
+#define IDC_CHECK5                      1077
+#define IDC_CHECK3                      1078
+#define IDC_BUTTON41                    1079
+#define IDC_CHECK1                      1080
+#define IDC_CHECK2                      1081
+#define IDC_CHECK6                      1082
+#define IDC_BUTTON42                    1083
+#define IDC_STATIC22                    1084
+#define IDC_CHECK7                      1085
+#define IDC_CHECK8                      1086
+#define IDC_CHECK9                      1087
+#define IDC_STATIC23                    1088
+#define IDC_BUTTON44                    1089
+#define IDC_EDIT11                      1090
+#define IDC_BUTTON45                    1091
+#define IDC_BUTTON46                    1092
+#define IDC_BUTTON48                    1093
+#define IDC_EDIT12                      1094
+#define IDC_BUTTON49                    1095
+#define IDC_STATIC10                    1096
+#define IDC_STATIC11                    1097
+#define IDC_STATIC12                    1098
+#define IDC_STATIC13                    1099
+#define IDC_STATIC14                    1100
+#define IDC_STATIC15                    1101
+#define IDC_STATIC16                    1102
+#define IDC_STATIC17                    1103
+#define IDC_STATIC18                    1104
+#define IDC_BUTTON50                    1105
+#define IDC_BUTTON27                    1106
+#define IDC_BUTTON28                    1107
+#define IDC_BUTTON34                    1110
+#define IDC_BUTTON38                    1111
+#define IDC_BUTTON39                    1112
+#define IDC_BUTTON43                    1113
+#define IDC_BUTTON47                    1114
+#define IDC_INKPICTURE3                 1117
+#define IDC_INKPICTURE6                 1120
+#define IDC_INKPICTURE8                 1122
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        135
+#define _APS_NEXT_COMMAND_VALUE         32771
+#define _APS_NEXT_CONTROL_VALUE         1124
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
